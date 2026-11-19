@@ -16,4 +16,5 @@ I’m a Software Engineering student on a journey to become a qualified programm
 
 
 
+
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
