@@ -13,7 +13,6 @@ I’m a Software Engineering student on a journey to become a qualified programm
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square)
 ![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkgreen?style=flat-square)
-![English](https://img.shields.io/badge/English-B2%20(Upper-Intermediate)-orange?style=flat-square)
 
 ## 📬 Let’s connect
 
