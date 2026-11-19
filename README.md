@@ -1,4 +1,4 @@
-# Hi, I’m ansiks09 👋
+# Hi, I’m Ansiks75 👋
 
 I’m a Software Engineering student on a journey to become a qualified programmer. Currently exploring the intersection of backend development and data systems.
 
